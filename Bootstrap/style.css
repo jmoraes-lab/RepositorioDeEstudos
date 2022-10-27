@@ -1,0 +1,33 @@
+#inicio{
+    background-image: url('https://t4.ftcdn.net/jpg/04/92/22/93/360_F_492229389_5ve1bCKgYrLRHpCj3o4FAzz60efaZgG0.jpg');
+    min-width: 500px;
+    color: white;
+    padding: 150px 40px;
+}
+
+#inicio h1{
+    font-size: 80px;
+
+}
+
+#inicio p {
+    font-size:20px;
+}
+
+#cursos{
+    padding: 40px 0px;
+
+}
+
+#perguntas{
+     padding: 40px 0px;
+     background-color: #D3D3D3;
+   
+}
+
+#contatos{
+    padding: 40px 0px;
+    background: black;
+    color: white;
+
+}
