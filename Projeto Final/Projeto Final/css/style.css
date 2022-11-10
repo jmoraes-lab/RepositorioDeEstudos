@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2? família= Poppins:wght@200;300 & display=swap');
+
+body{
+    font-family:'Poppins', sans-serif;
+}
+.texto-azul{
+    color: #242f51;
+}
+
+#titulo-inicio{
+    font-size: 80px;
+}
+
+.texto-cinza{
+    color: 616368;
+}
+
+#subtexto{
+    font-size: 15px;
+}
+
+.botao-azul {
+    padding: 12px 20px;
+    background-color: #2500f9;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+.botao-azul:hover {
+    padding: 12px 20px;
+    background-color: #fcae61;
+    color: white;
+    border: none;
+    border-radius: 20px; /*SUBCLASSE para ação quando o mouse
+    estiver em cima*/ 
+}
+.botao-branco{
+    padding: 12px 20px;
+    background-color: #fff;
+    color: #2500f9;
+    border: none;
+    border-radius: 20px;
+}
+
+#inicio {
+    background-image: url('../img/Vector_Smart_Object2.png'), url('../img/Layer_5.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain; /*faz a imagem de back ter repitibilidade no tam da tela*/
+}
+
+
+.box-test{
+    height: 300px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+#texto-centro{
+    margin: 10% 0 10% 10%;
+
+}
