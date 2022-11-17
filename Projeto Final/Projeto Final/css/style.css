@@ -52,10 +52,43 @@ body{
 
 .box-test{
     height: 300px;
-    margin-left: 20%;
+    margin-left: 30px;
     margin-top: 10%;
+   
+
 }
 #texto-centro{
-    margin: 10% 0 10% 10%;
+    margin-bottom: 30px;
+    margin-top: 40px;
 
+}
+
+#imagem2{
+    width: 120%;
+    margin: 20px;
+    
+}
+.boxflutuante{
+   font: center;
+}
+
+.item{
+    padding-bottom: 10px;
+}
+#listas{
+    padding: 100px 0px;
+}
+
+.accordion-body{
+    background-color: #f5f6fa;
+    color: #242f51;
+
+}
+.accordion-button:not(.colapse) {
+    background-color: #f5f6fa;
+    color: #242f51;
+}
+
+#sexta{
+    background-color: #242f51;
 }
